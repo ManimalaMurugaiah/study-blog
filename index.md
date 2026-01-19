@@ -7,5 +7,8 @@
 - C#  
 - ASP.NET Core  
 - Web API  
-- Entity Framework  
+- Entity Framework
+
+- - [.NET](dotnet.md)
+
 
