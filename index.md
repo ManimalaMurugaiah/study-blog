@@ -1,10 +1,18 @@
+# 📘 Manimala Interview Study Notes
+
+This website contains my interview preparation notes.
+
 ## Topics
 
+### Frontend
 - [Angular](angular.md)
+
+### Backend
 - [.NET](dotnet.md)
+
+### Database
 - [SQL](sql.md)
-- [Interview Prep](interview.md)
-- Azure
-- Cloud
-- Course
-- Learnings
+
+### Other
+- [System Design](system-design.md)
+- [HR Questions](hr.md)
